@@ -1,4 +1,4 @@
-# Development Test Requirements for Populate Sample Application
+# Development Test Requirements for Population Sample Application
 
 ## Required technologies
 - C# .NET Core
