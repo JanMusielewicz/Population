@@ -9,7 +9,7 @@
     - You can use any technology or framework you would like  
 -	Load dataset into a UI  
     - UI can be created however you would like  
-- Be able to sort, search, and modify  
+- Be able to sort, search, and modify (only through code, not manually through file...)  
 - Display a calculation in the UI  
     - Include summary section including the total avg population by gender  
 - Add validation to the population columns  
